@@ -1,1 +1,1 @@
-This is the readme file. 
+A rudimentary GLUT program. Heavily commented.
